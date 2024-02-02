@@ -84,7 +84,7 @@ Tuesday March 26th 12PM-2PM; Belfer 511A/B
 
 ### Einstein HPC usage
 
-[Einstein HPC usage guide](https://montefioreorg.sharepoint.com/sites/Einstein-IT-HPC/SitePages/HPC3.0-UQuick-Start.aspx) - Einstein login required?
+[Einstein HPC usage guide](https://montefioreorg.sharepoint.com/sites/Einstein-IT-HPC/SitePages/HPC3.0-UQuick-Start.aspx) - Einstein login required
 
 
 
