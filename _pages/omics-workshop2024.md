@@ -47,7 +47,7 @@ Sessions 1 and 2 will feature zoom (hybrid) lectures on computing and statistics
 
 Sessions 3-7 will feature lectures and interactive code examples ("Vignettes") on specific areas within omics. Lectures on omics will be given by faculty while each vignette was designed by the indicated trainee with inputs from faculty and trainees.
 
-Sessions will run once a week, each Tuesday at 12PM starting from Tuesday Feb 12 - Tuesday March 26th. Each session will be about 1.5 hours. Sessions will be recorded and recordings and code vignettes will be made available at the end of the workshop.
+Sessions will run once a week, each Tuesday at 12PM starting from Tuesday Feb 12 - Tuesday March 26th. Each session will be about 1.5 hours. Food will be served. Sessions will be recorded and recordings and code vignettes will be made available at the end of the workshop.
 
 Please make sure to RSVP for the sessions you are interested in via this poll:
 [RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
