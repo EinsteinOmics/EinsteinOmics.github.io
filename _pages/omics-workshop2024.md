@@ -56,21 +56,24 @@ Sessions 1 and 2 will feature zoom (hybrid) lectures on computing and statistics
 Sessions 3-7 will feature lectures and interactive code examples ("Vignettes") on specific areas within omics. Lectures on omics will be given by faculty while each vignette was designed by the indicated trainee with inputs from faculty and trainees.
 
 
-#### 1. Dr. Brian Hammond (PhD) → HPC usage; Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
+### 1. Dr. Brian Hammond (PhD) → HPC usage; Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
 
-#### 2. Dr. Melissa Fazzari (PhD) → Stats for Omics crash course; Tuesday Feb 20th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
+### 2. Dr. Melissa Fazzari (PhD) → Stats for Omics crash course; Tuesday Feb 20th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
 
-#### 3. Dr. Kith Pradhan (PhD) and Xiang Yu Zheng → bulk RNA/ATAC seq analysis Tuesday Feb 27th 12PM-2PM; Lower Ed Center
+### 3. Dr. Kith Pradhan (PhD) and Xiang Yu Zheng → bulk RNA/ATAC seq analysis Tuesday Feb 27th 12PM-2PM; Lower Ed Center
 
-#### 4. Dr. Sri Raj (PhD) and David Yang → Ancestry analysis; Tuesday March 5 12PM-2PM; Belfer 511A/B
+### 4. Dr. Srilakshmi Raj (PhD) and David Yang → Ancestry analysis; Tuesday March 5 12PM-2PM; Belfer 511A/B
 
-#### 5. Dr. Lindsay LaFave (PhD) and Anthony Griffen → scATACseq analysis; Tuesday March 12th 12PM-2PM; Lower Ed Center
+### 5. Dr. Lindsay LaFave (PhD) and Anthony Griffen → scATACseq analysis; Tuesday March 12th 12PM-2PM; Lower Ed Center
 
-#### 6. Dr. Deyou Zheng (PhD) and Alexander Ferrena → scRNAseq analysis Tuesday March 19th 12PM-2PM; Belfer 511A/B
+### 6. Dr. Deyou Zheng (PhD) and Alexander Ferrena → scRNAseq analysis Tuesday March 19th 12PM-2PM; Belfer 511A/B
 
-#### 7. Dr. Simone Sidoli (PhD) and Juan Sepulveda → Proteomics analysis; Tuesday March 26th 12PM-2PM; Belfer 511A/B; 
+### 7. Dr. Simone Sidoli (PhD) and Juan Sepulveda → Proteomics analysis; Tuesday March 26th 12PM-2PM; Belfer 511A/B
 
 
+
+Please make sure to RSVP for the sessions you are interested in via this poll:
+[RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
 
 
 
