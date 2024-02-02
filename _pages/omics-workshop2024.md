@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Omics Workshop 2024"
+permalink: /omics-workshop2024/
 author_profile: true
 redirect_from:
   - /wordpress/cv/
