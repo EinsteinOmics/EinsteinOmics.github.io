@@ -4,7 +4,7 @@ title: "Omics Workshop 2024"
 permalink: /omics-workshop2024/
 author_profile: true
 redirect_from:
-  - /wordpress/cv/
+  - /wordpress/omics-workshop2024/
 ---
 
 
@@ -22,19 +22,19 @@ We strongly suggest you familiarize yourself with terminal usage (unix), basic i
 
 
 How to use the Command Line | Terminal Basics for Beginners (Unix terminal):
-https://www.youtube.com/watch?v=5XgBd6rjuDQ
+[https://www.youtube.com/watch?v=5XgBd6rjuDQ](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
 
 
 
 
 R programming for ABSOLUTE beginners (R):
-https://www.youtube.com/watch?v=FY8BISK5DpM 
+[https://www.youtube.com/watch?v=FY8BISK5DpM](https://www.youtube.com/watch?v=FY8BISK5DpM)
 
 
 
 
 Python in less than 10 mintues for Beginners (Python):
-https://www.youtube.com/watch?v=fWjsdhR3z3c 
+[https://www.youtube.com/watch?v=fWjsdhR3z3c](https://www.youtube.com/watch?v=fWjsdhR3z3c)
 
 
 
@@ -66,10 +66,16 @@ Longer free tutorials are widely available on Youtube.
 ## Additional Materials
 
 
+### Einstein HPC usage
+
+[Einstein HPC usage guide](https://montefioreorg.sharepoint.com/sites/Einstein-IT-HPC/SitePages/HPC3.0-UQuick-Start.aspx) - Einstein login required?
+
+
+
 
 
 ### Statistics and R
 
 BERD house, Einstein's  Biotech Epidemiology Research Design (BERD) core vignettes and open house sessions, assembled by Dr. Melissa Fazzari
-https://www.einsteinmed.edu/centers/ictr/biostatistics-epidemiology-research-design-core/berd-house/ 
+[https://www.einsteinmed.edu/centers/ictr/biostatistics-epidemiology-research-design-core/berd-house/](https://www.einsteinmed.edu/centers/ictr/biostatistics-epidemiology-research-design-core/berd-house/ )
 
