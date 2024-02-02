@@ -8,7 +8,13 @@ redirect_from:
 ---
 
 
-# Pre-requisite materials for Omics workshop
+This is the official page of the Intro to Omics workshop, a student-run, faculty-led workshop meant to introduce concepts in computing, statistics, and bioinformatics for omics data analysis.
+
+
+
+
+
+## Pre-requisite materials for Omics workshop
 
 We strongly suggest you familiarize yourself with terminal usage (unix), basic introductory R, and basic introductory Python before attending the Omics workshop sessions.
 
@@ -21,13 +27,13 @@ https://www.youtube.com/watch?v=5XgBd6rjuDQ
 
 
 
-R programming for ABSOLUTE beginners (R)
+R programming for ABSOLUTE beginners (R):
 https://www.youtube.com/watch?v=FY8BISK5DpM 
 
 
 
 
-Python in less than 10 mintues for Beginners (Python)
+Python in less than 10 mintues for Beginners (Python):
 https://www.youtube.com/watch?v=fWjsdhR3z3c 
 
 
@@ -41,7 +47,7 @@ Longer free tutorials are widely available on Youtube.
 
 
 
-# DATES, TIMES, AND LOCATIONS FOR OMICS WORKSHOP SESSIONS
+## DATES, TIMES, AND LOCATIONS FOR OMICS WORKSHOP SESSIONS
 
 1. Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom); Brian Hammond → HPC usage
 2. Tuesday Feb 20th 12PM-2PM; Lower Ed Center (Hybrid /Zoom); Melissa Fazzari → Stats for Omics crash course
@@ -57,7 +63,7 @@ Longer free tutorials are widely available on Youtube.
 
 
 
-# Additional Materials
+## Additional Materials
 
 
 
