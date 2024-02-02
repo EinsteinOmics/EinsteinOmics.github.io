@@ -51,13 +51,24 @@ Longer free tutorials are widely available on Youtube.
 
 ## DATES, TIMES, AND LOCATIONS FOR OMICS WORKSHOP SESSIONS
 
-1. Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom); Brian Hammond → HPC usage
-2. Tuesday Feb 20th 12PM-2PM; Lower Ed Center (Hybrid /Zoom); Melissa Fazzari → Stats for Omics crash course
-3. Tuesday Feb 27th 12PM-2PM; Lower Ed Center; Kith Pradhan → bulk RNA/ATAC seq analysis
-4. Tuesday March 5 12PM-2PM; Belfer 511A/B; Sri Raj → Ancestry analysis
-5. Tuesday March 12th 12PM-2PM; Lower Ed Center; Lindsay LaFave → scATACseq analysis
-6. Tuesday March 19th 12PM-2PM; Belfer 511A/B; Deyou Zheng → scRNAseq analysis
-7. Tuesday March 26th 12PM-2PM; Belfer 511A/B; Simone Sidoli → Proteomics analysis
+Sessions 1 and 2 will feature zoom (hybrid) lectures on computing and statistics for Omics.
+
+Sessions 3-7 will feature lectures and interactive code examples ("Vignettes") on specific areas within omics. Lectures on omics will be given by faculty while each vignette was designed by the indicated trainee with inputs from faculty and trainees.
+
+
+#### 1. Dr. Brian Hammond (PhD) → HPC usage; Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
+
+#### 2. Dr. Melissa Fazzari (PhD) → Stats for Omics crash course; Tuesday Feb 20th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
+
+#### 3. Dr. Kith Pradhan (PhD) and Xiang Yu Zheng → bulk RNA/ATAC seq analysis Tuesday Feb 27th 12PM-2PM; Lower Ed Center
+
+#### 4. Dr. Sri Raj (PhD) and David Yang → Ancestry analysis; Tuesday March 5 12PM-2PM; Belfer 511A/B
+
+#### 5. Dr. Lindsay LaFave (PhD) and Anthony Griffen → scATACseq analysis; Tuesday March 12th 12PM-2PM; Lower Ed Center
+
+#### 6. Dr. Deyou Zheng (PhD) and Alexander Ferrena → scRNAseq analysis Tuesday March 19th 12PM-2PM; Belfer 511A/B
+
+#### 7. Dr. Simone Sidoli (PhD) and Juan Sepulveda → Proteomics analysis; Tuesday March 26th 12PM-2PM; Belfer 511A/B; 
 
 
 
@@ -80,4 +91,18 @@ Longer free tutorials are widely available on Youtube.
 
 BERD house, Einstein's  Biotech Epidemiology Research Design (BERD) core vignettes and open house sessions, assembled by Dr. Melissa Fazzari
 [https://www.einsteinmed.edu/centers/ictr/biostatistics-epidemiology-research-design-core/berd-house/](https://www.einsteinmed.edu/centers/ictr/biostatistics-epidemiology-research-design-core/berd-house/ )
+
+
+
+
+## Acknowledgements
+
+Special thanks to all Omics Club board members for organizing! The Omics club board includes: Xiang Yu Zheng, Ilana Karp, Marli Rodriguez, Michael Camerino, Isaac Krasnopolsky, Kevyn Jackson, Maja Haerle, Beata Malachowska, Muzaffer Ahmed Bhat, Gracelyn Richmond, and Alexander Ferrena.
+
+
+Special thanks to Dr. John Greally and Dr. Deyou Zheng for their time and efforts in helping pull this together!
+
+
+
+
 
