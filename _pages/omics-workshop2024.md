@@ -12,6 +12,8 @@ This is the official page of the Intro to Omics workshop, a student-run, faculty
 
 
 
+## [RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
+
 
 
 ## Pre-requisite materials for Omics workshop
