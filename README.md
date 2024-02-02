@@ -1,7 +1,7 @@
 
 # Link to site:
 
-### https://ferrenaalexander.github.io/
+### [https://ferrenaalexander.github.io/](https://einsteinomics.github.io/)
 
 
 
