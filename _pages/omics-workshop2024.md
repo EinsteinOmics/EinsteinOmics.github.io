@@ -53,9 +53,9 @@ Sessions will run once a week, each Tuesday at 12PM starting from Tuesday Feb 13
 
 **PLEASE NOTE, LOCATIONS HAVE CHANGED DUE TO MASSIVE INTEREST!**
 
-**Lower Ed Center**: In Forchheimer building, entering from Morris Park (Main entrance), walk straight, past security desk, as you approach cafe area there are doors to the right side, walk downstairs. Elevator access to the lower level is also available via Forchheimer.
+**Lower Ed Center**: In Forchheimer building, entering from Morris Park (Main entrance), walk straight, past security desk, as you approach cafe area there are doors to the right side, walk downstairs. Alternatively, a standalone elevator is available. It is adjacent to the stairs after passing the security desk and the three elevators. Please note that it is separate from the three elevators near the security desk. The floor number is “S2”.
 
-**Belfer Riklis Auditorium**: Riklis auditorium can be accessed in the basement of the Belfer building. If entering through the main entrance of Belfer, pass the security desk and make a right. The staircase behind the security desk will take you down to the basement. The doors to Riklis auditorium will be to your right. Riklis is also accessible by the Belfer elevator by taking it to the basement. Riklis will be right across from elevator
+**Belfer Riklis Auditorium**: Riklis auditorium can be accessed in the basement of the Belfer building. If entering through the main entrance of Belfer, pass the security desk and make a right. The staircase behind the security desk will take you down to the basement. The doors to Riklis auditorium will be to your right. Riklis is also accessible by the Belfer elevator by taking it to the basement. Riklis will be right across from elevator.
 
 
 Please make sure to RSVP for the sessions you are interested in via this poll:
