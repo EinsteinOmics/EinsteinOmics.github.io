@@ -53,26 +53,33 @@ Please make sure to RSVP for the sessions you are interested in via this poll:
 [RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
 
 
+**PLEASE NOTE, LOCATIONS HAVE CHANGED DUE TO MASSIVE INTEREST!**
+
+**Lower Ed Center**: In Forchheimer building, entering from Morris Park (Main entrance), walk straight, past security desk, as you approach cafe area there are doors to the right side, walk downstairs. Elevator access to the lower level is also available via Forchheimer.
+
+**Belfer Riklis Auditorium**: Riklis auditorium can be accessed in the basement of the Belfer building. If entering through the main entrance of Belfer, pass the security desk and make a right. The staircase behind the security desk will take you down to the basement. The doors to Riklis auditorium will be to your right. Riklis is also accessible by the Belfer elevator by taking it to the basement. Riklis will be right across from elevator
+
+
 ### 1. Dr. Brian Hammond (PhD) → HPC usage
 Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
 
 ### 2. Dr. Melissa Fazzari (PhD) → Stats for Omics crash course
-Tuesday Feb 20th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
+Tuesday Feb 20th 12PM-2PM; Belfer Riklis Auditorium (Hybrid /Zoom)
 
 ### 3. Dr. Kith Pradhan (PhD) and Xiang Yu Zheng → bulk RNA/ATAC seq analysis
-Tuesday Feb 27th 12PM-2PM; Lower Ed Center
+Tuesday Feb 27th 12PM-2PM; Belfer Riklis Auditorium
 
 ### 4. Dr. Srilakshmi Raj (PhD) and David Yang → Ancestry analysis
-Tuesday March 5 12PM-2PM; Belfer 511A/B
+Tuesday March 5 12PM-2PM; Belfer Riklis Auditorium
 
 ### 5. Dr. Lindsay LaFave (PhD) and Anthony Griffen → scATACseq analysis
-Tuesday March 12th 12PM-2PM; Lower Ed Center
+Tuesday March 12th 12PM-2PM; Belfer Riklis Auditorium
 
 ### 6. Dr. Deyou Zheng (PhD) and Alexander Ferrena → scRNAseq analysis
-Tuesday March 19th 12PM-2PM; Belfer 511A/B
+Tuesday March 19th 12PM-2PM; Belfer Riklis Auditorium
 
 ### 7. Dr. Simone Sidoli (PhD) and Juan Sepulveda → Proteomics analysis
-Tuesday March 26th 12PM-2PM; Belfer 511A/B
+Tuesday March 26th 12PM-2PM; Belfer Riklis Auditorium
 
 
 
