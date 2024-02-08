@@ -13,7 +13,7 @@ This is the official page of the Intro to Omics workshop, a student-run, faculty
 
 
 ## [RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
-Please make sure to RSVP via this poll. Scheduling information is on the poll and below.
+Please make sure to RSVP via this poll. Scheduling and location information is on the poll and below.
 
 
 
@@ -49,8 +49,6 @@ Sessions 3-7 will feature lectures and interactive code examples ("Vignettes") o
 
 Sessions will run once a week, each Tuesday at 12PM starting from Tuesday Feb 13 - Tuesday March 26th. Each session will be about 1.5 hours. Food will be served. Sessions will be recorded and recordings and code vignettes will be made available at the end of the workshop.
 
-Please make sure to RSVP for the sessions you are interested in via this poll:
-[RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
 
 
 **PLEASE NOTE, LOCATIONS HAVE CHANGED DUE TO MASSIVE INTEREST!**
@@ -59,6 +57,9 @@ Please make sure to RSVP for the sessions you are interested in via this poll:
 
 **Belfer Riklis Auditorium**: Riklis auditorium can be accessed in the basement of the Belfer building. If entering through the main entrance of Belfer, pass the security desk and make a right. The staircase behind the security desk will take you down to the basement. The doors to Riklis auditorium will be to your right. Riklis is also accessible by the Belfer elevator by taking it to the basement. Riklis will be right across from elevator
 
+
+Please make sure to RSVP for the sessions you are interested in via this poll:
+[RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
 
 ### 1. Dr. Brian Hammond (PhD) → HPC usage
 Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
@@ -82,6 +83,9 @@ Tuesday March 19th 12PM-2PM; Belfer Riklis Auditorium
 Tuesday March 26th 12PM-2PM; Belfer Riklis Auditorium
 
 
+
+Please make sure to RSVP for the sessions you are interested in via this poll:
+[RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
 
 
 
