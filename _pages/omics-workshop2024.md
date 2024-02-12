@@ -58,11 +58,14 @@ Sessions will run once a week, each Tuesday at 12PM starting from Tuesday Feb 13
 **Belfer Riklis Auditorium**: Riklis auditorium can be accessed in the basement of the Belfer building. If entering through the main entrance of Belfer, pass the security desk and make a right. The staircase behind the security desk will take you down to the basement. The doors to Riklis auditorium will be to your right. Riklis is also accessible by the Belfer elevator by taking it to the basement. Riklis will be right across from elevator.
 
 
+**Zoom info**: in person attendance is preferred. However, zoom info is available upon request, please email michael.camerino@einsteinmed.edu, xiangyu.zheng@einsteinmed.edu or alexander.ferrena@einsteinmed.edu.
+
+
 Please make sure to RSVP for the sessions you are interested in via this poll:
 [RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
 
 
-Zoom info: in person attendance is preferred. However, for zoom info, please email michael.camerino@einsteinmed.edu, xiangyu.zheng@einsteinmed.edu or alexander.ferrena@einsteinmed.edu.
+
 
 ### 1. Dr. Brian Hammond (PhD) → HPC usage
 Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
