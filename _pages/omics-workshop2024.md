@@ -62,17 +62,10 @@ Please make sure to RSVP for the sessions you are interested in via this poll:
 [RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
 
 
-
-For Zoom info, please email xiangyu.zheng@einsteinmed.edu or alexander.ferrena@einsteinmed.edu.
+Zoom info: in person attendance is preferred. However, for zoom info, please email michael.camerino@einsteinmed.edu, xiangyu.zheng@einsteinmed.edu or alexander.ferrena@einsteinmed.edu.
 
 ### 1. Dr. Brian Hammond (PhD) → HPC usage
 Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
-
-
-
-
-
-
 
 ### 2. Dr. Melissa Fazzari (PhD) → Stats for Omics crash course
 Tuesday Feb 20th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
