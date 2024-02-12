@@ -61,18 +61,12 @@ Sessions will run once a week, each Tuesday at 12PM starting from Tuesday Feb 13
 Please make sure to RSVP for the sessions you are interested in via this poll:
 [RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
 
+
+
+For Zoom info, please email xiangyu.zheng@einsteinmed.edu or alexander.ferrena@einsteinmed.edu.
+
 ### 1. Dr. Brian Hammond (PhD) → HPC usage
 Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
-
-
-ZOOM INFO (in person attendance is preferred)
-
-
-https://einsteinmed.zoom.us/j/99226287427?pwd=WWUwWlZZUGFOT1NWalhjdW92YmdKdz09
-
-Meeting ID: 992 2628 7427
-
-Passcode: 851767
 
 
 
