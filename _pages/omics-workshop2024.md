@@ -63,10 +63,20 @@ Please make sure to RSVP for the sessions you are interested in via this poll:
 
 ### 1. Dr. Brian Hammond (PhD) → HPC usage
 Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
+
+
 ZOOM INFO (in person attendance is preferred)
+
 https://einsteinmed.zoom.us/j/99226287427?pwd=WWUwWlZZUGFOT1NWalhjdW92YmdKdz09
+
 Meeting ID: 992 2628 7427
+
 Passcode: 851767
+
+
+
+
+
 
 ### 2. Dr. Melissa Fazzari (PhD) → Stats for Omics crash course
 Tuesday Feb 20th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
