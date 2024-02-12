@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Welcome to Omics Club"
-excerpt: "I love Omics"
 author_profile: true
 redirect_from: 
   - /about/
