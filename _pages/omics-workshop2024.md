@@ -65,7 +65,7 @@ Please make sure to RSVP for the sessions you are interested in via this poll:
 Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
 
 
-ZOOM INFO (in person attendance is preferred)
+ZOOM INFO (in person attendance is preferred):
 
 https://einsteinmed.zoom.us/j/99226287427?pwd=WWUwWlZZUGFOT1NWalhjdW92YmdKdz09
 
