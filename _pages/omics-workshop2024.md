@@ -113,7 +113,7 @@ Please make sure to RSVP for the sessions you are interested in via this poll:
 ### Statistics and R
 
 BERD house, Einstein's  Biotech Epidemiology Research Design (BERD) core vignettes and open house sessions, assembled by Dr. Melissa Fazzari
-[https://www.einsteinmed.edu/centers/ictr/biostatistics-epidemiology-research-design-core/berd-house/](https://www.einsteinmed.edu/centers/ictr/biostatistics-epidemiology-research-design-core/berd-house/ )
+[https://www.einsteinmed.edu/centers/ictr/biostatistics-epidemiology-research-design-core/berd-house/](https://www.einsteinmed.edu/centers/ictr/biostatistics-epidemiology-research-design-core/berd-house/)
 
 
 
