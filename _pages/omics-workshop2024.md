@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-This is the official page of the Intro to Omics workshop, a student-run, faculty-led workshop meant to introduce concepts in computing, statistics, and bioinformatics for omics data analysis.
+This is the official page of the Intro to Omics workshop, a faculty-led, student organized workshop meant to introduce concepts in computing, statistics, and bioinformatics for omics data analysis.
 
 
 
@@ -64,6 +64,9 @@ Sessions will run once a week, each Tuesday at 12PM starting from Tuesday Feb 13
 Please make sure to RSVP for the sessions you are interested in via this poll:
 [RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
 
+
+
+Note that the website for the code examples (called "vignettes") is now live. Please see the vignette website for all instructions on code vignette for both interactive coding follow-along as well as read-only options: [Code viegnette website](https://github.com/EinsteinOmics/OmicsWorkshop)
 
 
 
@@ -129,6 +132,6 @@ Special thanks to all Omics Club board members for organizing! The Omics club bo
 Special thanks to Dr. John Greally and Dr. Deyou Zheng for their time and efforts in helping pull this together!
 
 
-
+Special thanks to the Einstein Student Governing Board for supporting this workshop!
 
 
