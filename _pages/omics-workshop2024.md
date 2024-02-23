@@ -79,6 +79,12 @@ Tuesday Feb 20th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
 ### 3. Dr. Kith Pradhan (PhD) and Xiang Yu Zheng → bulk RNA/ATAC seq analysis
 Tuesday Feb 27th 12PM-2PM; Belfer Riklis Auditorium
 
+
+For additional instructions on this session related to the example code, please see here:
+https://github.com/EinsteinOmics/OmicsWorkshop?tab=readme-ov-file#bulk-rna-seq-and-bulk-atac-seq-with-dr-kith-pradhan-assisted-by-xiang-yu-zheng
+
+
+
 ### 4. Dr. Srilakshmi Raj (PhD) and David Yang → Ancestry analysis
 Tuesday March 5 12PM-2PM; Belfer Riklis Auditorium
 
