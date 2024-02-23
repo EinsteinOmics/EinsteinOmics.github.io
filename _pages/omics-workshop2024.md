@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-This is the official page of the Intro to Omics workshop, a faculty-led, student organized workshop meant to introduce concepts in computing, statistics, and bioinformatics for omics data analysis.
+This is the official page of the Intro to Omics workshop, a faculty-led, student-organized workshop meant to introduce concepts in computing, statistics, and bioinformatics for omics data analysis.
 
 
 
@@ -81,7 +81,8 @@ Tuesday Feb 27th 12PM-2PM; Belfer Riklis Auditorium
 
 
 For additional instructions on this session related to the example code, please see here:
-- https://github.com/EinsteinOmics/OmicsWorkshop?tab=readme-ov-file#bulk-rna-seq-and-bulk-atac-seq-with-dr-kith-pradhan-assisted-by-xiang-yu-zheng
+- [General Vignette instructions](https://github.com/EinsteinOmics/OmicsWorkshop)
+- [Specific Vignette Guide](https://github.com/EinsteinOmics/OmicsWorkshop?tab=readme-ov-file#bulk-rna-seq-and-bulk-atac-seq-with-dr-kith-pradhan-assisted-by-xiang-yu-zheng)
 
 
 
