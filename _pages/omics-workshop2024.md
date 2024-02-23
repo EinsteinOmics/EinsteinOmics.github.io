@@ -81,7 +81,7 @@ Tuesday Feb 27th 12PM-2PM; Belfer Riklis Auditorium
 
 
 For additional instructions on this session related to the example code, please see here:
-https://github.com/EinsteinOmics/OmicsWorkshop?tab=readme-ov-file#bulk-rna-seq-and-bulk-atac-seq-with-dr-kith-pradhan-assisted-by-xiang-yu-zheng
+- https://github.com/EinsteinOmics/OmicsWorkshop?tab=readme-ov-file#bulk-rna-seq-and-bulk-atac-seq-with-dr-kith-pradhan-assisted-by-xiang-yu-zheng
 
 
 
@@ -138,6 +138,6 @@ Special thanks to all Omics Club board members for organizing! The Omics club bo
 Special thanks to Dr. John Greally and Dr. Deyou Zheng for their time and efforts in helping pull this together!
 
 
-Special thanks to the Einstein Student Governing Board for supporting this workshop!
+Special thanks to the Einstein Student Governing Board (SGB) as well as the Einstein Genetics Department chaired by Dr. Jan Vijg for supporting this workshop and allowing us to serve food during each session!
 
 
