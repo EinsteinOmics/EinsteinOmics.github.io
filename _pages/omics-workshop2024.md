@@ -50,6 +50,9 @@ Sessions 3-7 will feature lectures and interactive code examples ("Vignettes") o
 Sessions will run once a week, each Tuesday at 12PM starting from Tuesday Feb 13 - Tuesday March 26th. Each session will be about 1.5 hours. Food will be served. Sessions will be recorded and recordings and code vignettes will be made available at the end of the workshop.
 
 
+**Code Vignettes:** Note that the website for the code examples (called "vignettes") is now live. Please see the vignette website for all instructions on code vignette for both interactive coding follow-along as well as read-only options: [Code vignette website](https://github.com/EinsteinOmics/OmicsWorkshop)
+
+
 
 **PLEASE NOTE, LOCATIONS HAVE CHANGED DUE TO MASSIVE INTEREST!**
 
@@ -61,13 +64,11 @@ Sessions will run once a week, each Tuesday at 12PM starting from Tuesday Feb 13
 **Zoom info**: in person attendance is preferred. However, zoom info is available upon request, please email michael.camerino@einsteinmed.edu, xiangyu.zheng@einsteinmed.edu or alexander.ferrena@einsteinmed.edu.
 
 
+
+
+
 Please make sure to RSVP for the sessions you are interested in via this poll:
 [RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
-
-
-
-Note that the website for the code examples (called "vignettes") is now live. Please see the vignette website for all instructions on code vignette for both interactive coding follow-along as well as read-only options: [Code viegnette website](https://github.com/EinsteinOmics/OmicsWorkshop)
-
 
 
 ### 1. Dr. Brian Hammond (PhD) → HPC usage
@@ -81,8 +82,8 @@ Tuesday Feb 27th 12PM-2PM; Belfer Riklis Auditorium
 
 
 For additional instructions on this session related to the example code, please see here:
-- [General Vignette instructions](https://github.com/EinsteinOmics/OmicsWorkshop)
-- [Specific Vignette Guide](https://github.com/EinsteinOmics/OmicsWorkshop?tab=readme-ov-file#bulk-rna-seq-and-bulk-atac-seq-with-dr-kith-pradhan-assisted-by-xiang-yu-zheng)
+- [General Vignette Guide (including HPC access)](https://github.com/EinsteinOmics/OmicsWorkshop)
+- [Specific Vignette Instructions (including local computer options)](https://github.com/EinsteinOmics/OmicsWorkshop?tab=readme-ov-file#bulk-rna-seq-and-bulk-atac-seq-with-dr-kith-pradhan-assisted-by-xiang-yu-zheng)
 
 
 
