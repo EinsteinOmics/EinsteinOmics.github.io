@@ -13,7 +13,7 @@ This is the official page of the Intro to Omics workshop, a faculty-led, student
 
 
 ## [RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
-Please make sure to RSVP via this poll. Scheduling and location information is on the poll and below.
+Please make sure to RSVP via this poll. Scheduling and location information is on the poll and below. Please note that locations have changed, see below on this site for the up to date locations.
 
 
 
@@ -21,22 +21,15 @@ Please make sure to RSVP via this poll. Scheduling and location information is o
 
 We strongly suggest you familiarize yourself with terminal usage (unix), basic introductory R, and basic introductory Python before attending the Omics workshop sessions.
 
+Here are some short Youtube videos:
+- [How to use the Command Line | Terminal Basics for Beginners (Unix terminal)](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
+
+- [R programming for ABSOLUTE beginners (R)](https://www.youtube.com/watch?v=FY8BISK5DpM)
+
+- [Python in less than 10 mintues for Beginners (Python)](https://www.youtube.com/watch?v=fWjsdhR3z3c)
 
 
-How to use the Command Line | Terminal Basics for Beginners (Unix terminal):
-[https://www.youtube.com/watch?v=5XgBd6rjuDQ](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
-
-
-R programming for ABSOLUTE beginners (R):
-[https://www.youtube.com/watch?v=FY8BISK5DpM](https://www.youtube.com/watch?v=FY8BISK5DpM)
-
-
-Python in less than 10 mintues for Beginners (Python):
-[https://www.youtube.com/watch?v=fWjsdhR3z3c](https://www.youtube.com/watch?v=fWjsdhR3z3c)
-
-
-
-Longer free tutorials are widely available on Youtube.
+Longer free tutorials are widely available online.
 
 
 
@@ -50,13 +43,6 @@ Sessions 3-7 will feature lectures and interactive code examples ("Vignettes") o
 Sessions will run once a week, each Tuesday at 12PM starting from Tuesday Feb 13 - Tuesday March 26th. Each session will be about 1.5 hours. Food will be served. Sessions will be recorded and recordings and code vignettes will be made available at the end of the workshop.
 
 
-**Code Vignettes:** Note that the website for the code examples (called "vignettes") is now live. Please see the vignette website for all instructions on code vignette for both interactive coding follow-along as well as read-only options: [Code vignette website](https://github.com/EinsteinOmics/OmicsWorkshop)
-
-
-
-**PLEASE NOTE, LOCATIONS HAVE CHANGED DUE TO MASSIVE INTEREST!**
-
-**Lower Ed Center**: In Forchheimer building, entering from Morris Park (Main entrance), walk straight, past security desk, as you approach cafe area there are doors to the right side, walk downstairs. Alternatively, a standalone elevator is available. It is adjacent to the stairs after passing the security desk and the three elevators. Please note that it is separate from the three elevators near the security desk. The floor number is “S2”.
 
 **Belfer Riklis Auditorium**: Riklis auditorium can be accessed in the basement of the Belfer building. If entering through the main entrance of Belfer, pass the security desk and make a right. The staircase behind the security desk will take you down to the basement. The doors to Riklis auditorium will be to your right. Riklis is also accessible by the Belfer elevator by taking it to the basement. Riklis will be right across from elevator.
 
@@ -71,6 +57,9 @@ Please make sure to RSVP for the sessions you are interested in via this poll:
 [RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
 
 
+**Code Vignettes:** Note that the website for the code examples (called "vignettes") is now live. Please see the [code vignette website](https://github.com/EinsteinOmics/OmicsWorkshop) for all instructions on code vignette for both interactive coding follow-along as well as read-only options.
+
+
 ### 1. Dr. Brian Hammond (PhD) → HPC usage
 Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
 
@@ -79,13 +68,6 @@ Tuesday Feb 20th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
 
 ### 3. Dr. Kith Pradhan (PhD) and Xiang Yu Zheng → bulk RNA/ATAC seq analysis
 Tuesday Feb 27th 12PM-2PM; Belfer Riklis Auditorium
-
-
-For additional instructions on this session related to the example code, please see here:
-- [General Vignette Guide (including HPC access)](https://github.com/EinsteinOmics/OmicsWorkshop)
-- [Specific Vignette Instructions (including local computer options)](https://github.com/EinsteinOmics/OmicsWorkshop?tab=readme-ov-file#bulk-rna-seq-and-bulk-atac-seq-with-dr-kith-pradhan-assisted-by-xiang-yu-zheng)
-
-
 
 ### 4. Dr. Srilakshmi Raj (PhD) and David Yang → Ancestry analysis
 Tuesday March 5 12PM-2PM; Belfer Riklis Auditorium
@@ -115,7 +97,7 @@ Please make sure to RSVP for the sessions you are interested in via this poll:
 
 ### Einstein HPC usage
 
-[Einstein HPC usage guide](https://montefioreorg.sharepoint.com/sites/Einstein-IT-HPC/SitePages/HPC3.0-UQuick-Start.aspx) - Einstein login required
+- [Einstein HPC usage guide](https://montefioreorg.sharepoint.com/sites/Einstein-IT-HPC/SitePages/HPC3.0-UQuick-Start.aspx) - Einstein login required
 
 
 
@@ -123,8 +105,7 @@ Please make sure to RSVP for the sessions you are interested in via this poll:
 
 ### Statistics and R
 
-BERD house, Einstein's  Biotech Epidemiology Research Design (BERD) core vignettes and open house sessions, assembled by Dr. Melissa Fazzari
-[https://www.einsteinmed.edu/centers/ictr/biostatistics-epidemiology-research-design-core/berd-house/](https://www.einsteinmed.edu/centers/ictr/biostatistics-epidemiology-research-design-core/berd-house/)
+- [BERD House](https://www.einsteinmed.edu/centers/ictr/biostatistics-epidemiology-research-design-core/berd-house/), Einstein's  Biotech Epidemiology Research Design (BERD) core vignettes and open house sessions, assembled by Dr. Melissa Fazzari
 
 
 
@@ -134,7 +115,7 @@ BERD house, Einstein's  Biotech Epidemiology Research Design (BERD) core vignet
 Thank you to all faculty session leaders and trainee vignette designers - this would not have been possible without you!
 
 
-Special thanks to all Omics Club board members for organizing! The Omics club board includes: Xiang Yu Zheng, Ilana Karp, Marli Rodriguez, Michael Camerino, Isaac Krasnopolsky, Kevyn Jackson, Maja Haerle, Beata Malachowska, Muzaffer Ahmed Bhat, Gracelyn Richmond, and Alexander Ferrena.
+Special thanks to all Omics Club board members for organizing! The Omics club board includes: Xiang Yu Zheng, Ilana Karp, Marli Rodriguez, Michael Camerino, Isaac Krasnopolsky, Kevyn Jackson, Gracelyn Richmond, Maja Haerle, Beata Malachowska, and Alexander Ferrena.
 
 
 Special thanks to Dr. John Greally and Dr. Deyou Zheng for their time and efforts in helping pull this together!
