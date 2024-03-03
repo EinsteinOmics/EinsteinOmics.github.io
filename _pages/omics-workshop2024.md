@@ -22,7 +22,7 @@ Please make sure to RSVP via this poll. Scheduling and location information is o
 We strongly suggest you familiarize yourself with terminal usage (unix), basic introductory R, and basic introductory Python before attending the Omics workshop sessions.
 
 Here are some short Youtube videos:
-- [How to use the Command Line | Terminal Basics for Beginners (Unix terminal)](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
+- [How to use the Command Line - Terminal Basics for Beginners (Unix terminal)](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
 
 - [R programming for ABSOLUTE beginners (R)](https://www.youtube.com/watch?v=FY8BISK5DpM)
 
