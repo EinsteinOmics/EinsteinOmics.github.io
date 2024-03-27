@@ -12,8 +12,10 @@ This is the official page of the Intro to Omics workshop, a faculty-led, student
 
 
 
-## [RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
-Please make sure to RSVP via this poll. Scheduling and location information is on the poll and below. Please note that locations have changed, see below on this site for the up to date locations.
+
+
+## [Recordings Link](https://drive.google.com/drive/folders/1ZEURiPc3D20Gb4a4MPGpcLw-OyHKx8PG?usp=drive_link)
+
 
 
 
@@ -44,18 +46,6 @@ Sessions will run once a week, each Tuesday at 12PM starting from Tuesday Feb 13
 
 
 
-**Belfer Riklis Auditorium**: Riklis auditorium can be accessed in the basement of the Belfer building. If entering through the main entrance of Belfer, pass the security desk and make a right. The staircase behind the security desk will take you down to the basement. The doors to Riklis auditorium will be to your right. Riklis is also accessible by the Belfer elevator by taking it to the basement. Riklis will be right across from elevator.
-
-
-**Zoom info**: in person attendance is preferred. However, zoom info is available upon request, please email michael.camerino@einsteinmed.edu, xiangyu.zheng@einsteinmed.edu or alexander.ferrena@einsteinmed.edu.
-
-
-
-
-
-Please make sure to RSVP for the sessions you are interested in via this poll:
-[RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
-
 
 **Code Vignettes:** Note that the website for the code examples (called "vignettes") is now live. Please see the [code vignette website](https://github.com/EinsteinOmics/OmicsWorkshop) for all instructions on code vignette for both interactive coding follow-along as well as read-only options.
 
@@ -81,10 +71,6 @@ Tuesday March 19th 12PM-2PM; Belfer Riklis Auditorium
 ### 7. Dr. Simone Sidoli (PhD) and Juan Sepulveda → Proteomics analysis
 Tuesday March 26th 12PM-2PM; Belfer Riklis Auditorium
 
-
-
-Please make sure to RSVP for the sessions you are interested in via this poll:
-[RSVP Google Poll form](https://forms.gle/iuymSPH7EMuePpSV9)
 
 
 
@@ -121,6 +107,6 @@ Special thanks to all Omics Club board members for organizing! The Omics club bo
 Special thanks to Dr. John Greally and Dr. Deyou Zheng for their time and efforts in helping pull this together!
 
 
-Special thanks to the Einstein Student Governing Board (SGB) as well as the Einstein Genetics Department chaired by Dr. Jan Vijg for supporting this workshop and allowing us to serve food during each session!
+Special thanks to the Einstein Student Governing Board (SGB) as well as the Einstein Genetics Department and chair Dr. Jan Vijg for supporting this workshop and allowing us to serve food during each session!
 
 
