@@ -18,8 +18,8 @@ main:
 #  - title: "CV"
 #    url: /cv/
     
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Omics hackathon 2025"
+    url: /omics-hackathon2025/
 
   - title: "Omics Workshop 2024"
     url: /omics-workshop2024/
