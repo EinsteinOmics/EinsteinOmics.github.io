@@ -15,6 +15,14 @@ This student-led hackathon aims to bring together participants from various disc
 
  ![Omics Hackathon Flyer](/images/Biohackathon_Flyer.png)
 
+
+
+## FAQs
+[FAQs](https://docs.google.com/document/d/1XuYHQF3yGem8wmNqxUW1tVc268r4UHlVoXTsaWrW81Y/edit?usp=sharing)
+
+
+---
+
 ## Technical Support
 
 **Team Members (Emails):**  
@@ -37,7 +45,7 @@ This student-led hackathon aims to bring together participants from various disc
 
 ## Additional Help
 
-• Slack Channel: **TBD**
+• Join our Slack Channel: https://app.slack.com/huddle/T01KZLPCQF8/C093LPC0P62
 
 ---
 
