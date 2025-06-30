@@ -15,35 +15,38 @@ This student-led hackathon aims to bring together participants from various disc
 
  ![Omics Hackathon Flyer](/images/Biohackathon_Flyer.png)
 
+## Technical Support
 
+**Team Members (Emails):**  
+• Carlos – [carlos.madrid-aliste@einsteinmed.edu](mailto:carlos.madrid-aliste@einsteinmed.edu)  
+• Kevin – [kevin.oleary@einsteinmed.edu](mailto:kevin.oleary@einsteinmed.edu)  
+• Juan – [juan.sepulveda@einsteinmed.edu](mailto:juan.sepulveda@einsteinmed.edu)  
+• Xiang – [xiangyu.zheng@einsteinmed.edu](mailto:xiangyu.zheng@einsteinmed.edu)
 
-## Technical support 
+---
 
-Team members (emails):
-•	Carlos (carlos.madrid-aliste@einsteinmed.edu)
-•	Kevin (kevin.oleary@einsteinmed.edu)
-•	Juan (juan.sepulveda@einsteinmed.edu)
-•	Xiang (xiangyu.zheng@einsteinmed.edu)
+## Technical Support Office Hour Schedule
 
+| **Event**            | **Date & Time**                                       | **Support Method**     | **Location**                  |
+|----------------------|--------------------------------------------------------|-------------------------|-------------------------------|
+| Pre-hacking Support  | July 16 (Tue), 2–4 PM  <br> July 18 (Fri), 2–4 PM      | Office Hours / Slack    | Price 357 (both sessions)     |
+| Biohacking Day       | July 20 (Sun), 9 AM–6 PM                               | In-person Support       | Lower Education Center        |
+| Post-hacking Support | July 21 (Mon), 2–4 PM  <br> July 23 (Wed), 2–4 PM      | Office Hours / Slack    | Price 351 (both sessions)     |
 
+---
 
-Technical Support Office Hour Schedule
-| Event               | Date (Time)                                      | Supporting Methods      | Location                     |
-|---------------------|--------------------------------------------------|--------------------------|------------------------------|
-| Pre-hacking support | July 16th (Tues; 2pm–4pm)  
-                    July 18th (Fri; 2pm–4pm) | Office hours / Slack      | Price 357 (Both sessions) |
-| Biohacking day      | July 20th (Sun; 9am–6pm)                      | In-person support        | Lower Education Center       |
-| Post-hacking support| July 21st (Mon; 2pm–4pm)  
-                    July 23rd (Wed; 2pm–4pm) | Office hours / Slack      | Price 351 (Both sessions) |
+## Additional Help
 
+• Slack Channel: **TBD**
 
-Additional help:
-•	Slack Channel: TBD
+---
 
-## Resources
-•	Youtube playlist (Omics workshop 2024): https://www.youtube.com/playlist?list=PLYwHdvhxrSjv_UXR5kI6L0zCBoQvrvcmj
-•	Workshop Recordings: TBD
-•	Google Co-lab: TBD
+##  Resources
+
+• [YouTube Playlist – Omics Workshop 2024](https://www.youtube.com/playlist?list=PLYwHdvhxrSjv_UXR5kI6L0zCBoQvrvcmj)  
+• Workshop Recordings: **TBD**  
+• Google Colab: **TBD**
+
 
 
 ## Acknowledgements
