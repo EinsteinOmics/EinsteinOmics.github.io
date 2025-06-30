@@ -17,8 +17,37 @@ This student-led hackathon aims to bring together participants from various disc
 
 
 
+## Technical support 
+
+Team members (emails):
+•	Carlos (carlos.madrid-aliste@einsteinmed.edu)
+•	Kevin (kevin.oleary@einsteinmed.edu)
+•	Juan (juan.sepulveda@einsteinmed.edu)
+•	Xiang (xiangyu.zheng@einsteinmed.edu)
+
+
+
+Technical Support Office Hour Schedule
+| Event               | Date (Time)                                      | Supporting Methods      | Location                     |
+|---------------------|--------------------------------------------------|--------------------------|------------------------------|
+| Pre-hacking support | July 16th (Tues; 2pm–4pm)  
+                    July 18th (Fri; 2pm–4pm) | Office hours / Slack      | Price 357 (Both sessions) |
+| Biohacking day      | July 20th (Sun; 9am–6pm)                      | In-person support        | Lower Education Center       |
+| Post-hacking support| July 21st (Mon; 2pm–4pm)  
+                    July 23rd (Wed; 2pm–4pm) | Office hours / Slack      | Price 351 (Both sessions) |
+
+
+Additional help:
+•	Slack Channel: TBD
+
+## Resources
+•	Youtube playlist (Omics workshop 2024): https://www.youtube.com/playlist?list=PLYwHdvhxrSjv_UXR5kI6L0zCBoQvrvcmj
+•	Workshop Recordings: TBD
+•	Google Co-lab: TBD
+
+
 ## Acknowledgements
 
-Special thanks to the Einstein Student Governing Board (SGB) as well as Data Science Institue (DSI) for supporting this hackathon!
+Special thanks to the Office of Student Life, Einstein Student Governing Board (SGB) as well as Data Science Institue (DSI) for sponsoring this hackathon!
 
 
