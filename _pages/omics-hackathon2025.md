@@ -49,7 +49,7 @@ We hope you'll join us and share your perspective.
 
 ## Additional Help
 
-• Join our Slack Channel: https://app.slack.com/huddle/T01KZLPCQF8/C093LPC0P62
+• [Join our Slack Channel](https://app.slack.com/huddle/T01KZLPCQF8/C093LPC0P62)
 
 ---
 
