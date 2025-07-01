@@ -28,7 +28,7 @@ Add these dates to your calendar! [download_ics_file](/files/Merged_Biohackathon
 
 ---
 
-## Technical Support
+## Technical Support - I need help!!!
 
 **Team Members (Emails):**  
 • Carlos – [carlos.madrid-aliste@einsteinmed.edu](mailto:carlos.madrid-aliste@einsteinmed.edu)  
@@ -36,9 +36,8 @@ Add these dates to your calendar! [download_ics_file](/files/Merged_Biohackathon
 • Juan – [juan.sepulveda@einsteinmed.edu](mailto:juan.sepulveda@einsteinmed.edu)  
 • Xiang – [xiangyu.zheng@einsteinmed.edu](mailto:xiangyu.zheng@einsteinmed.edu)
 
----
 
-## Technical Support Office Hour Schedule
+**Technical Support Office Hour Schedule**
 
 | **Event**            | **Date & Time**                                       | **Support Method**     | **Location**                  |
 |----------------------|--------------------------------------------------------|-------------------------|-------------------------------|
@@ -48,15 +47,14 @@ Add these dates to your calendar! [download_ics_file](/files/Merged_Biohackathon
 
 Add office hours to your calendar! [download_office_hour_ics](/files/merged_office_hours.ics)
 
----
 
-## Additional Help
+**Additional Technical/General Help**
 
 • [Join our Slack Channel](https://app.slack.com/huddle/T01KZLPCQF8/C093LPC0P62)
 
 ---
 
-##  Resources
+##  Resources - I want to learn more!!!
 
 • [YouTube Playlist – Omics Workshop 2024](https://www.youtube.com/playlist?list=PLYwHdvhxrSjv_UXR5kI6L0zCBoQvrvcmj)  
 • Workshop Recordings: **Available Soon**  
@@ -67,6 +65,11 @@ Add office hours to your calendar! [download_office_hour_ics](/files/merged_offi
 ## Acknowledgements
 
 Special thanks to the Office of Student Life, Einstein Student Governing Board (SGB) as well as Data Science Institue (DSI) for sponsoring this hackathon!
+
+
+## Feedback for the Website/Events 
+
+• Xiang – [xiangyu.zheng@einsteinmed.edu](mailto:xiangyu.zheng@einsteinmed.edu)
 
 
 ## QR code for this website
