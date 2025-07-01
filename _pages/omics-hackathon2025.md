@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Omics hackathon 2025"
+title: "Einstein Biohackathon 2025"
 permalink: /omics-hackathon2025/
 author_profile: true
 redirect_from:
@@ -8,9 +8,13 @@ redirect_from:
 ---
 
 
-This is the official page of the omics hackathon 2025.
+Welcome to the official page of the Einstein Biohackathon 2025.
 
-This student-led hackathon aims to bring together participants from various disciplines to tackle real-world problems through innovation and collaboration. The event is open to all MD, PhD, and MSTP students as well as researchers, regardless of coding experience. This is a 5 part event that will include workshops and team-based challenges. The theme is development and the central question we are trying to ask is ‘What does development mean to you?’. We hope you’ll join us in participating so we can get to know your perspective.
+Organized by the Omics Club, the Biohackathon aims to bring together participants from diverse backgrounds to tackle real-world problems through innovation and collaboration. The event is open to all MD, PhD, and MSTP students, as well as researchers—no coding experience required.
+
+This five-part event includes interactive workshops and team-based challenges. The theme is development, and the central question we’re exploring is: “What does development mean to you?”
+
+We hope you'll join us and share your perspective.
 
 
  ![Omics Hackathon Flyer](/images/Biohackathon_Flyer.png)
