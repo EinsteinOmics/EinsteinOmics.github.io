@@ -22,9 +22,9 @@ We hope you'll join us and share your perspective.
 Add these dates to your calendar! [download_ics_file](/files/Merged_Biohackathon_Calendar.ics)
 
 
-## FAQs
-[FAQs](https://docs.google.com/document/d/1XuYHQF3yGem8wmNqxUW1tVc268r4UHlVoXTsaWrW81Y/edit?usp=sharing)
-
+## Hackathon Starter pack
+• [FAQs](https://docs.google.com/document/d/1XuYHQF3yGem8wmNqxUW1tVc268r4UHlVoXTsaWrW81Y/edit?usp=sharing)
+• Rubric: **Available Soon**
 
 ---
 
@@ -59,8 +59,8 @@ Add office hours to your calendar! [download_office_hour_ics](/files/merged_offi
 ##  Resources
 
 • [YouTube Playlist – Omics Workshop 2024](https://www.youtube.com/playlist?list=PLYwHdvhxrSjv_UXR5kI6L0zCBoQvrvcmj)  
-• Workshop Recordings: **TBD**  
-• Google Colab: **TBD**
+• Workshop Recordings: **Available Soon**  
+• Google Colab: **Available Soon**
 
 
 
