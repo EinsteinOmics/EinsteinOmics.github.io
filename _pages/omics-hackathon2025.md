@@ -66,3 +66,6 @@ We hope you'll join us and share your perspective.
 Special thanks to the Office of Student Life, Einstein Student Governing Board (SGB) as well as Data Science Institue (DSI) for sponsoring this hackathon!
 
 
+## QR code for this website
+
+ ![Website QRcode](/images/Biohackathon_website.png)
