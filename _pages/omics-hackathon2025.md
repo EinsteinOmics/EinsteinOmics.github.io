@@ -19,6 +19,7 @@ We hope you'll join us and share your perspective.
 
  ![Omics Hackathon Flyer](/images/Biohackathon_Flyer.png)
 
+Add these dates to your calendar! [download_ics_files](/files/Merged_Biohackathon_Calendar.ics)
 
 
 ## FAQs
