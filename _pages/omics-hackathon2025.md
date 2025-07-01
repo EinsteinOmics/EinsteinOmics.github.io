@@ -19,7 +19,7 @@ We hope you'll join us and share your perspective.
 
  ![Omics Hackathon Flyer](/images/Biohackathon_Flyer.png)
 
-Add these dates to your calendar! [download_ics_files](/files/Merged_Biohackathon_Calendar.ics)
+Add these dates to your calendar! [download_ics_file](/files/Merged_Biohackathon_Calendar.ics)
 
 
 ## FAQs
@@ -45,6 +45,8 @@ Add these dates to your calendar! [download_ics_files](/files/Merged_Biohackatho
 | Pre-hacking Support  | July 16 (Tue), 2–4 PM  <br> July 18 (Fri), 2–4 PM      | Office Hours / Slack    | Price 357 (both sessions)     |
 | Biohacking Day       | July 20 (Sun), 9 AM–6 PM                               | In-person Support       | Lower Education Center        |
 | Post-hacking Support | July 21 (Mon), 2–4 PM  <br> July 23 (Wed), 2–4 PM      | Office Hours / Slack    | Price 351 (both sessions)     |
+
+Add office hours to your calendar! [download_office_hour_ics](/files/merged_office_hours.ics)
 
 ---
 
