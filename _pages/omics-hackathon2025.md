@@ -24,7 +24,7 @@ Add these dates to your calendar! [download_ics_file](/files/Merged_Biohackathon
 
 ## Hackathon Starter pack
 [FAQs](https://docs.google.com/document/d/1XuYHQF3yGem8wmNqxUW1tVc268r4UHlVoXTsaWrW81Y/edit?usp=sharing)
- | [Rubric] (/images/Hackathon_Rubric.png) | [Output Guidelines](/images/Hackathon_Guidelines.png)
+ | [Rubric](/images/Hackathon_Rubric.png) | [Output Guidelines](/images/Hackathon_Guidelines.png)
 
 ---
 
