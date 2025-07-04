@@ -50,7 +50,7 @@ Add office hours to your calendar! [download_office_hour_ics](/files/merged_offi
 
 **Additional Technical/General Help**
 
-• [Join our Slack Channel](https://app.slack.com/huddle/T01KZLPCQF8/C093LPC0P62)
+• [Join our Slack Channel](https://join.slack.com/t/einsteinmonteomics/shared_invite/zt-38pcngmya-6b7DFhjXnLrkqjkZmM~X0Q)
 
 ---
 
@@ -58,7 +58,7 @@ Add office hours to your calendar! [download_office_hour_ics](/files/merged_offi
 
 • [YouTube Playlist – Omics Workshop 2024](https://www.youtube.com/playlist?list=PLYwHdvhxrSjv_UXR5kI6L0zCBoQvrvcmj)  
 • Workshop Recordings: **Available Soon**  
-• Google Colab: **Available Soon**
+• [Google Colab Youtube tutorial](https://youtu.be/RLYoEyIHL6A?si=CycTnF7ng5fUPQxH)
 
 
 
