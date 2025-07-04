@@ -21,6 +21,11 @@ We hope you'll join us and share your perspective.
 
 Add these dates to your calendar! [download_ics_file](/files/Merged_Biohackathon_Calendar.ics)
 
+---
+## Hackathon Progress
+Progress: [■■░░░░░] 20% Complete  
+✅ Workshop 1 → ☐ Workshop 2 → ☐ Workshop 3 → ☐ Hacking Day → ☐ Judging Day
+
 
 ## Hackathon Starter pack
 [FAQs](https://docs.google.com/document/d/1XuYHQF3yGem8wmNqxUW1tVc268r4UHlVoXTsaWrW81Y/edit?usp=sharing)
