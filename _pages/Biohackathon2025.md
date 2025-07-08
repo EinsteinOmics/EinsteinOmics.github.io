@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Einstein Biohackathon 2025"
-permalink: /omics-hackathon2025/
+permalink: /Biohackathon2025/
 author_profile: true
 redirect_from:
-  - /wordpress/omics-hackathon2025/
+  - /wordpress/Biohackathon2025/
 ---
 
 
@@ -24,7 +24,7 @@ Add these dates to your calendar! [download_ics_file](/files/Merged_Biohackathon
 ---
 ## Hackathon Progress
 Progress: [■■■■☐☐☐☐☐☐☐☐☐☐☐☐☐☐☐☐] 20% Complete  
-✅ Workshop 1 → ☐ Workshop 2 → ☐ Workshop 3 → ☐ Hacking Day → ☐ Judging Day
+✅ ![Workshop 1](/images/Biohackathon%20Workshop%201.jpg) → ☐ ![Workshop 2](/images/Biohackathon%20Workshop%202.jpeg) → ☐ ![Workshop 3](/images/Biohackathon%20Workshop%203.jpeg) → ☐ Hacking Day → ☐ Judging Day
 
 
 
