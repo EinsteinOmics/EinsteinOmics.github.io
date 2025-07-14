@@ -30,7 +30,11 @@ Progress: [■■■■■■■■☐☐☐☐☐☐☐☐☐☐☐☐] 40% Com
 
 ## Hackathon Starter pack
 [FAQs](https://docs.google.com/document/d/1XuYHQF3yGem8wmNqxUW1tVc268r4UHlVoXTsaWrW81Y/edit?usp=sharing)
- | [Rubric](/images/Hackathon_Rubric.png) | [Output Guidelines](/images/Hackathon_Guidelines.png)
+ | [Rubric & Output Guidelines](https://docs.google.com/presentation/d/1lGC8rSSlpo6TGDqnva_743GVDD-Y4xFuUS76T1-EVic/edit?usp=sharing)
+
+
+
+Final presentation format: 4 min presentation + 2 min Q&As 
 
 ---
 
