@@ -23,8 +23,8 @@ Add these dates to your calendar! [download_ics_file](/files/Merged_Biohackathon
 
 ---
 ## Hackathon Progress
-Progress: [■■■■■■■■☐☐☐☐☐☐☐☐☐☐☐☐] 40% Complete  
-✅ [Workshop 1](/images/Biohackathon%20Workshop%201.jpg) → ✅ [Workshop 2](/images/Biohackathon%20Workshop%202.jpeg) → ☐ [Workshop 3](/images/Biohackathon%20Workshop%203.jpeg) → ☐ Hacking Day → ☐ Judging Day
+Progress: [■■■■■■■■■■■■☐☐☐☐☐☐☐☐] 60% Complete  
+✅ [Workshop 1](/images/Biohackathon%20Workshop%201.jpg) → ✅ [Workshop 2](/images/Biohackathon%20Workshop%202.jpeg) → ✅ [Workshop 3](/images/Biohackathon%20Workshop%203.jpeg) → ☐ Hacking Day → ☐ Judging Day
 
 
 
@@ -51,7 +51,7 @@ Final presentation format: 4 min presentation + 2 min Q&As
 
 | **Event**            | **Date & Time**                                       | **Support Method**     | **Location**                  |
 |----------------------|--------------------------------------------------------|-------------------------|-------------------------------|
-| Pre-hacking Support  | July 16 (Tue), 2–4 PM  <br> July 18 (Fri), 2–4 PM      | Office Hours / Slack    | Price 357 (both sessions)     |
+| Pre-hacking Support  | July 16 (Wed), 2–4 PM  <br> July 18 (Fri), 2–4 PM      | Office Hours / Slack    | Price 357 (both sessions)     |
 | Biohacking Day       | July 20 (Sun), 9 AM–6 PM                               | In-person Support       | Lower Education Center        |
 | Post-hacking Support | July 21 (Mon), 2–4 PM  <br> July 23 (Wed), 2–4 PM      | Office Hours / Slack    | Price 351 (both sessions)     |
 
@@ -67,7 +67,7 @@ Add office hours to your calendar! [download_office_hour_ics](/files/merged_offi
 ##  Resources - I want to learn more!!!
 
 • [YouTube Playlist – Omics Workshop 2024](https://www.youtube.com/playlist?list=PLYwHdvhxrSjv_UXR5kI6L0zCBoQvrvcmj)  
-• Workshop Recordings: **Available Soon**  
+• Workshop Recordings: [Workshop #3](https://drive.google.com/file/d/1tRGR47QNG0ykU4TTD_LwePICBxn91PGi/view?usp=drive_link) 
 • [Google Colab Youtube tutorial](https://youtu.be/RLYoEyIHL6A?si=CycTnF7ng5fUPQxH)
 
 
