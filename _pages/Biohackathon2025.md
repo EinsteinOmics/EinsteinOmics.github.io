@@ -36,6 +36,8 @@ Progress: [■■■■■■■■■■■■☐☐☐☐☐☐☐☐] 60% Com
 
 Final presentation format: 4 min presentation + 2 min Q&As 
 
+***Please share your final product with us (einstein.omics@gmail.com) before mid-night of Thursday (6/24).***
+
 ---
 
 ## Technical Support - I need help!!!
