@@ -67,7 +67,9 @@ Add office hours to your calendar! [download_office_hour_ics](/files/merged_offi
 ##  Resources - I want to learn more!!!
 
 • [YouTube Playlist – Omics Workshop 2024](https://www.youtube.com/playlist?list=PLYwHdvhxrSjv_UXR5kI6L0zCBoQvrvcmj)  
-• Workshop Recordings: [Workshop #3](https://drive.google.com/file/d/1tRGR47QNG0ykU4TTD_LwePICBxn91PGi/view?usp=drive_link) 
+
+• Workshop Recordings: [Workshop #3](https://drive.google.com/file/d/1tRGR47QNG0ykU4TTD_LwePICBxn91PGi/view?usp=drive_link)
+
 • [Google Colab Youtube tutorial](https://youtu.be/RLYoEyIHL6A?si=CycTnF7ng5fUPQxH)
 
 
