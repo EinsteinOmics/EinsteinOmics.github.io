@@ -23,8 +23,8 @@ Add these dates to your calendar! [download_ics_file](/files/Merged_Biohackathon
 
 ---
 ## Hackathon Progress
-Progress: [■■■■■■■■■■■■☐☐☐☐☐☐☐☐] 60% Complete  
-✅ [Workshop 1](/images/Biohackathon%20Workshop%201.jpg) → ✅ [Workshop 2](/images/Biohackathon%20Workshop%202.jpeg) → ✅ [Workshop 3](/images/Biohackathon%20Workshop%203.jpeg) → ☐ Hacking Day → ☐ Judging Day
+Progress: [■■■■■■■■■■■■■■■■☐☐☐☐] 80% Complete  
+✅ [Workshop 1](/images/Biohackathon%20Workshop%201.jpg) → ✅ [Workshop 2](/images/Biohackathon%20Workshop%202.jpeg) → ✅ [Workshop 3](/images/Biohackathon%20Workshop%203.jpeg) → ✅ Hacking Day → ☐ Judging Day
 
 
 
@@ -34,7 +34,7 @@ Progress: [■■■■■■■■■■■■☐☐☐☐☐☐☐☐] 60% Com
 
 
 
-Final presentation format: 4 min presentation + 2 min Q&As 
+Final presentation format: 4-6 min presentation + 2 min Q&As 
 
 ***Please share your final product with us (einstein.omics@gmail.com) before mid-night of Thursday (7/24, 11:59 PM).***
 
