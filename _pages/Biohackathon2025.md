@@ -23,8 +23,8 @@ Add these dates to your calendar! [download_ics_file](/files/Merged_Biohackathon
 
 ---
 ## Hackathon Progress
-Progress: [■■■■■■■■■■■■■■■■☐☐☐☐] 80% Complete  
-✅ [Workshop 1](/images/Biohackathon%20Workshop%201.jpg) → ✅ [Workshop 2](/images/Biohackathon%20Workshop%202.jpeg) → ✅ [Workshop 3](/images/Biohackathon%20Workshop%203.jpeg) → ✅ Hacking Day → ☐ Judging Day
+Progress: [■■■■■■■■■■■■■■■■■■■■] 100% Complete  
+✅ [Workshop 1](/images/Biohackathon%20Workshop%201.jpg) → ✅ [Workshop 2](/images/Biohackathon%20Workshop%202.jpeg) → ✅ [Workshop 3](/images/Biohackathon%20Workshop%203.jpeg) → ✅ Hacking Day → ✅ Judging Day ️🎉🎉🎉
 
 
 
