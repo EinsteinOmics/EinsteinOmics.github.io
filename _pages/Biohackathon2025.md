@@ -83,6 +83,12 @@ Add office hours to your calendar! [download_office_hour_ics](/files/merged_offi
 • [Google Colab Youtube tutorial](https://youtu.be/RLYoEyIHL6A?si=CycTnF7ng5fUPQxH)
 
 ---
+## Photos
+
+[Photos](https://drive.google.com/drive/folders/1e_GgKl2HoVaazS2NiRmVThlMPekDTdvi?usp=sharing)
+
+---
+
 
 ## Omics Club E-Board
 
@@ -103,11 +109,9 @@ Add office hours to your calendar! [download_office_hour_ics](/files/merged_offi
 
 ## Acknowledgements
 
-Special thanks to the Office of Student Life, Einstein Student Governing Board (SGB) as well as Data Science Institue (DSI) for sponsoring this hackathon!
-
 ![Acknowledgements](/images/Ackowlegment.jpeg)
 
-
+---
 
 ## Feedback for the Website/Events 
 
