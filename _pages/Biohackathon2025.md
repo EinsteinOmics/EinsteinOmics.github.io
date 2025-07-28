@@ -26,11 +26,19 @@ Add these dates to your calendar! [download_ics_file](/files/Merged_Biohackathon
 Progress: [■■■■■■■■■■■■■■■■■■■■] 100% Complete  
 ✅ [Workshop 1](/images/Biohackathon%20Workshop%201.jpg) → ✅ [Workshop 2](/images/Biohackathon%20Workshop%202.jpeg) → ✅ [Workshop 3](/images/Biohackathon%20Workshop%203.jpeg) → ✅ Hacking Day → ✅ Judging Day ️🎉🎉🎉
 
+---
 
+## Winning Teams 🏆
+
+🥇 **1st Place** — *Banana Biotech*  
+🥈 **2nd Place** — *Developmen*  
+🥉 **3rd Place** — *Vismun Bioscience*
+
+---
 
 ## Hackathon Starter pack
 [FAQs](https://docs.google.com/document/d/1XuYHQF3yGem8wmNqxUW1tVc268r4UHlVoXTsaWrW81Y/edit?usp=sharing)
- | [Rubric & Output Guidelines](https://docs.google.com/presentation/d/1lGC8rSSlpo6TGDqnva_743GVDD-Y4xFuUS76T1-EVic/edit?usp=sharing)
+ | [Rubric & Output Guidelines](https://docs.google.com/presentation/d/1lGC8rSSlpo6TGDqnva_743GVDD-Y4xFuUS76T1-EVic/edit?usp=sharing) | [T-shirt](/images/Tshirt.jpeg)
 
 
 
@@ -74,11 +82,31 @@ Add office hours to your calendar! [download_office_hour_ics](/files/merged_offi
 
 • [Google Colab Youtube tutorial](https://youtu.be/RLYoEyIHL6A?si=CycTnF7ng5fUPQxH)
 
+---
 
+## Omics Club E-Board
+
+**Co-Chairs:** Kevyn Jackson, Xiang Yu Zheng  
+**Judging:** Grace Richmond  
+**Branding:** Gloria Stoyanova  
+**Workshops:** Maja Haerle  
+**Tech Support:** Kevin O’Leary, Juan Sepulveda  
+**Finance:** Isaac Krasnopolsky  
+**Photography:** Michael Camerino
+
+
+## Special Thanks 
+
+**Carlos Madrid** (Tech Support), **Renee Rodriguez** (Logistics)
+
+---
 
 ## Acknowledgements
 
 Special thanks to the Office of Student Life, Einstein Student Governing Board (SGB) as well as Data Science Institue (DSI) for sponsoring this hackathon!
+
+![Acknowledgements](/images/Ackowlegment.jpeg)
+
 
 
 ## Feedback for the Website/Events 
