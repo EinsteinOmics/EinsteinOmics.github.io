@@ -103,7 +103,7 @@ Add office hours to your calendar! [download_office_hour_ics](/files/merged_offi
 
 ## Special Thanks 
 
-**Carlos Madrid** (Tech Support), **Renee Rodriguez** (Logistics)
+**Carlos Madrid** (Tech Support), **Renee Rodriguez** (Logistics), **Dr. Jessica Mar** (Planning) 
 
 ---
 
