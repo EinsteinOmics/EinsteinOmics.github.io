@@ -15,11 +15,13 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-#  - title: "CV"
-#    url: /cv/
+
     
   - title: "Biohackathon 2025"
     url: /Biohackathon2025/
 
   - title: "Omics Workshop 2024"
     url: /omics-workshop2024/
+
+  - title: "Additional Resources"
+    url: /Additional_Resources/
