@@ -40,7 +40,7 @@ The symposium is open to everyone and is a great opportunity to learn about ongo
 
 | Person | Role Summary |
 |---|---|
-| Gloria | Keynote guest coordination |
+| Gloria | Flyer design and keynote guest coordination |
 | Kevin | IT support |
 | Isaac | Opening remarks and speaker intros |
 | Kelsey & Jingying | Registration and game setup |
@@ -60,4 +60,4 @@ Thank you to Dr. Olivier Elemento, our Einstein faculty and trainee speakers, an
 
 Special thanks to all Omics Club board members for their hard work in organizing the event.
 
-We would also like to give special thanks to the Einstein Student Governing Board (SGB), the Data Science Institute (DSI), and Einstein Student Life for their generous support and funding.
+We would also like to give special thanks to the Einstein Student Governing Board (SGB), the Data Science Institute (DSI), Einstein Student Life, and Office of the Dean for their generous support and funding.
