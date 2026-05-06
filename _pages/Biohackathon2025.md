@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to the official page of the Einstein Biohackathon 2025.
 
-Organized by the Omics Club, the Biohackathon aims to bring together participants from diverse backgrounds to tackle real-world problems through innovation and collaboration. The event is open to all MD, PhD, and MSTP students, as well as researchers—no coding experience required.
+Organized by the Einstein Omics Club, the Biohackathon aims to bring together participants from diverse backgrounds to tackle real-world problems through innovation and collaboration. The event is open to all MD, PhD, and MSTP students, as well as researchers—no coding experience required.
 
 This five-part event includes interactive workshops and team-based challenges. The theme is development, and the central question we’re exploring is: “What does development mean to you?”
 

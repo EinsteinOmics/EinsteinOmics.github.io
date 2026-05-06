@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Omics Club"
+title: "Welcome to Einstein Omics Club"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-Einstein Monte Omics Club is a networking association at Albert Einstein College of Medicine and Montefiore with shared interest in omics technology.
+Einstein Omics Club is a networking association at Albert Einstein College of Medicine and Montefiore with shared interest in omics technology.
 
 This is an association of trainees, researchers, students, and others who are passionate about cutting-edge omics technologies and interested in educational and networking opportunites. This organization was founded in 2021 by students who completed the bioinformatics focused Quantitative Skills in Biomedical Sciences course at Einstein, and who wanted to keep learning more.
 

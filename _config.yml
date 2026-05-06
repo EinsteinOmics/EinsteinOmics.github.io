@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Einstein Montefiore Omics Club"
+title                    : "Einstein Omics Club"
 title_separator          : "-"
-name                     : &name "Einstein Montefiore Omics Club"
+name                     : &name "Einstein Omics Club"
 description              : &description "We love Omics and so can you!"
 url                      : https://EinsteinOmics.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Einstein Montefiore Omics Club"
-  avatar           : "LOGO Einstein Montefiore Omics Club TRANSPARENT.png"
+  name             : "Einstein Omics Club"
+  avatar           : "LOGO Einstein Omics Club.png"
   bio              : "We love Omics and so can you!"
   location         : "Bronx, NY"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "company/einstein-montefiore-omics-club"
+  linkedin         : "company/einstein-omics-club"
   orcid            : # "http://orcid.org/0000-0002-9578-8683"
   pinterest        :
   soundcloud       :

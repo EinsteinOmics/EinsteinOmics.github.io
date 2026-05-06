@@ -12,11 +12,9 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-
-    
+  - title: "Bioinformatics Symposium 2026"
+    url: /BioinformaticsSymposium2026/
+        
   - title: "Biohackathon 2025"
     url: /Biohackathon2025/
 
