@@ -50,27 +50,26 @@ Sessions will run once a week, each Tuesday at 12PM starting from Tuesday Feb 13
 **Code Vignettes:** Note that the website for the code examples (called "vignettes") is now live. Please see the [code vignette website](https://github.com/EinsteinOmics/OmicsWorkshop) for all instructions on code vignette for both interactive coding follow-along as well as read-only options.
 
 
-### 1. Dr. Brian Hammond (PhD) → HPC usage
-Tuesday Feb 13th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
+### 1. [Dr. Brian Hammond, Ph.D.](https://einsteinmed.edu/research/shared-facilities/cores/high-performance-computing) → HPC usage  
+Tuesday, February 13, 12:00–2:00 PM; Lower Ed Center (Hybrid/Zoom)
 
-### 2. Dr. Melissa Fazzari (PhD) → Stats for Omics crash course
-Tuesday Feb 20th 12PM-2PM; Lower Ed Center (Hybrid /Zoom)
+### 2. [Dr. Melissa Fazzari, M.S., Ph.D.](https://einsteinmed.edu/faculty/9052/melissa-j-fazzari) → Stats for Omics crash course  
+Tuesday, February 20, 12:00–2:00 PM; Lower Ed Center (Hybrid/Zoom)
 
-### 3. Dr. Kith Pradhan (PhD) and Xiang Yu Zheng → bulk RNA/ATAC seq analysis
-Tuesday Feb 27th 12PM-2PM; Belfer Riklis Auditorium
+### 3. [Dr. Kith Pradhan, Ph.D.](https://einsteinmed.edu/faculty/12060/kith-pradhan) and [Xiang Yu Zheng](https://xyzheng123.github.io/) → bulk RNA-seq/ATAC-seq analysis  
+Tuesday, February 27, 12:00–2:00 PM; Belfer Riklis Auditorium
 
-### 4. Dr. Srilakshmi Raj (PhD) and David Yang → Ancestry analysis
-Tuesday March 5 12PM-2PM; Belfer Riklis Auditorium
+### 4. [Dr. Srilakshmi M. Raj, Ph.D.](https://einsteinmed.edu/faculty/16979/srilakshmi-m-raj) and [David Yang](https://www.linkedin.com/in/david-yang27) → Ancestry analysis  
+Tuesday, March 5, 12:00–2:00 PM; Belfer Riklis Auditorium
 
-### 5. Dr. Lindsay LaFave (PhD) and Anthony Griffen → scATACseq analysis
-Tuesday March 12th 12PM-2PM; Belfer Riklis Auditorium
+### 5. [Dr. Lindsay M. LaFave, Ph.D.](https://einsteinmed.edu/faculty/16960/lindsay-m-lafave) and [Anthony Griffen](https://orcid.org/0009-0001-8257-7238) → scATAC-seq analysis  
+Tuesday, March 12, 12:00–2:00 PM; Belfer Riklis Auditorium
 
-### 6. Dr. Deyou Zheng (PhD) and Alexander Ferrena → scRNAseq analysis
-Tuesday March 19th 12PM-2PM; Belfer Riklis Auditorium
+### 6. [Dr. Deyou Zheng, Ph.D.](https://einsteinmed.edu/faculty/10976/deyou-zheng) and [Alexander Ferrena, Ph.D.](https://ferrenaalexander.github.io/) → scRNA-seq analysis  
+Tuesday, March 19, 12:00–2:00 PM; Belfer Riklis Auditorium
 
-### 7. Dr. Simone Sidoli (PhD) and Juan Sepulveda → Proteomics analysis
-Tuesday March 26th 12PM-2PM; Belfer Riklis Auditorium
-
+### 7. [Dr. Simone Sidoli, Ph.D.](https://einsteinmed.edu/faculty/16080/simone-sidoli) and [Juan Sepulveda](https://www.linkedin.com/in/juan-sepulveda-44506b1a3) → Proteomics analysis  
+Tuesday, March 26, 12:00–2:00 PM; Belfer Riklis Auditorium
 
 
 
